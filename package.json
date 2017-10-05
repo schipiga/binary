@@ -1,0 +1,32 @@
+{
+  "name": "binary",
+  "version": "1.0.0",
+  "description": "Install portable versions of ImageMagic and ffmpeg",
+  "main": "lib/index.js",
+  "scripts": {
+    "postinstall": "node ./lib/installer.js"
+  },
+  "engines": {
+    "node": ">= 7.0",
+    "npm": ">= 4.0"
+  },
+  "files": [
+    "lib"
+  ],
+  "os": [
+    "win32"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schipiga/binary.git"
+  },
+  "author": "Sergei Chipiga <chipiga86@gmail.com>",
+  "license": "GPLv2",
+  "bugs": {
+    "url": "https://github.com/schipiga/binary/issues"
+  },
+  "homepage": "https://github.com/schipiga/binary#readme",
+  "dependencies": {
+    "unzip": "^0.1.11"
+  }
+}
