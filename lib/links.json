@@ -1,4 +1,4 @@
 {
-    "ffmpeg": "http://ffmpeg.zeranoe.com/builds/win64/static/ffmpeg-3.3.3-win64-static.zip",
-    "imageMagick": "http://www.imagemagick.org/download/binaries/ImageMagick-7.0.7-6-portable-Q16-x64.zip"
+    "ffmpeg": "https://raw.githubusercontent.com/schipiga/packages/master/ffmpeg-3.3.3-win64-static.zip",
+    "imageMagick": "https://raw.githubusercontent.com/schipiga/packages/master/ImageMagick-7.0.7-7-portable-Q16-x64.zip"
 }
