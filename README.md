@@ -1,1 +1,1 @@
-Install portable versions of ImageMagic and ffmpeg.
+Install portable version and ffmpeg.

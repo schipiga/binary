@@ -1,7 +1,7 @@
 {
   "name": "binary",
   "version": "1.0.0",
-  "description": "Install portable versions of ImageMagic and ffmpeg",
+  "description": "Install portable version ffmpeg",
   "main": "lib/index.js",
   "scripts": {
     "postinstall": "node ./lib/installer.js"
